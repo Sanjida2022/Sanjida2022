@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Sanjida2022
+- 👀 I’m interested in Artificial Intelligence
+- 🌱 I’m currently learning Python
